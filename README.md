@@ -6,9 +6,15 @@
 
 **Before jumping to the code lets understand what is TensorFlow and What do you mean by regression problem?**...<br></br>
 
-**Let's looks into dataset and features of it:<br>**
+**Let's looks into dataset and features of it:** <br>
 
-Machine Learning with R by Brett Lantz is a book that provides an introduction to machine learning using R. As far as I can tell, Packt Publishing does not make its datasets available online unless you buy the book and create a user account which can be a problem if you are checking the book out from the library or borrowing the book from a friend. All of these datasets are in the public domain but simply needed some cleaning up and recoding to match the format in the book. <br></br>
+
+**About Dataset** <br>
+
+Machine Learning with R by Brett Lantz is a book that provides an introduction to machine learning using R. As far as I can tell, Packt Publishing does not make its datasets available online unless you buy the book and create a user account which can be a problem if you are checking the book out from the library or borrowing the book from a friend. All of these datasets are in the public domain but simply needed some cleaning up and recoding to match the format in the book.
+
+**Features**: age,sex,bmi,children,smoker,region<br>
+**Label/Target Vector** : charges<br>
 
 **Columns** <br>
 
@@ -25,7 +31,7 @@ smoker: Smoking<br></br>
 
 region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.<br>
 
-charges: Individual medical costs billed by health insurance<br>
+charges: Individual medical costs billed by health insurance.<br>
 
 **What is a TensorFlow?** <br></br>
 
