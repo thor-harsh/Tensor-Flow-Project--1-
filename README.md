@@ -6,7 +6,7 @@
 
 **Before jumping to the code lets understand what is TensorFlow and What do you mean by regression problem?**...<br></br>
 
-**Let's looks into dataset and features of it:** <br>
+**Let's looks into dataset and features of it:** <br></br>
 
 **About Dataset**: <br>
 
@@ -15,7 +15,7 @@ Machine Learning with R by Brett Lantz is a book that provides an introduction t
 **Features**: age,sex,bmi,children,smoker,region <br></br>
 **Label/Target Vector** : charges <br></br>
 
-**Columns**: <br></br>
+**Columns**: <br>
 
 age: age of primary beneficiary <br>
 
