@@ -6,7 +6,7 @@
 
 **Before jumping to the code lets understand what is TensorFlow and What do you mean by regression problem?**...<br></br>
 
-<br></br>Let's looks into dataset and features of it:<br></br>
+Let's looks into dataset and features of it:<br>
 
 Machine Learning with R by Brett Lantz is a book that provides an introduction to machine learning using R. As far as I can tell, Packt Publishing does not make its datasets available online unless you buy the book and create a user account which can be a problem if you are checking the book out from the library or borrowing the book from a friend. All of these datasets are in the public domain but simply needed some cleaning up and recoding to match the format in the book. <br></br>
 
@@ -14,18 +14,18 @@ Machine Learning with R by Brett Lantz is a book that provides an introduction t
 
 age: age of primary beneficiary<br>
 
-sex: insurance contractor gender, female, male<br></br>
+sex: insurance contractor gender, female, male<br>
 
 bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,
-objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9<br></br>
+objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9<br>
 
-children: Number of children covered by health insurance / Number of dependents<br></br>
+children: Number of children covered by health insurance / Number of dependents<br>
 
 smoker: Smoking<br></br>
 
-region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.<br></br>
+region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.<br>
 
-charges: Individual medical costs billed by health insurance<br></br>
+charges: Individual medical costs billed by health insurance<br>
 
 **What is a TensorFlow?** <br></br>
 
