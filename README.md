@@ -15,7 +15,7 @@ Machine Learning with R by Brett Lantz is a book that provides an introduction t
 **Features**: age,sex,bmi,children,smoker,region <br></br>
 **Label/Target Vector** : charges <br></br>
 
-**Columns** <br>
+**Columns**: <br></br>
 
 age: age of primary beneficiary <br>
 
