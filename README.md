@@ -8,12 +8,12 @@
 
 **Let's looks into dataset and features of it:** <br>
 
-**About Dataset** <br>
+**About Dataset**: <br>
 
 Machine Learning with R by Brett Lantz is a book that provides an introduction to machine learning using R. As far as I can tell, Packt Publishing does not make its datasets available online unless you buy the book and create a user account which can be a problem if you are checking the book out from the library or borrowing the book from a friend. All of these datasets are in the public domain but simply needed some cleaning up and recoding to match the format in the book. <br>
 
-**Features**: age,sex,bmi,children,smoker,region<br></br>
-**Label/Target Vector** : charges<br></br>
+**Features**: age,sex,bmi,children,smoker,region <br></br>
+**Label/Target Vector** : charges <br></br>
 
 **Columns** <br>
 
@@ -23,13 +23,13 @@ sex: insurance contractor gender, female, male <br>
 
 bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9 <br>
 
-children: Number of children covered by health insurance / Number of dependents<br>
+children: Number of children covered by health insurance / Number of dependents <br>
 
-smoker: Smoking<br>
+smoker: Smoking <br>
 
-region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.<br>
+region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest. <br>
 
-charges: Individual medical costs billed by health insurance.<br></br>
+charges: Individual medical costs billed by health insurance. <br></br>
 
 **What is a TensorFlow?** <br></br>
 
@@ -40,7 +40,6 @@ TensorFlow is a free and open-source software library for machine learning and a
 Regression is a statistical method used in finance, investing, and other disciplines that attempts to determine the strength and character of the relationship between a dependent variable and one or more independent variables. Linear regression is the most common form of this technique. <br></br>
 
 **Important Note: Go through the code to learn more**
-
 
 </table>
 
