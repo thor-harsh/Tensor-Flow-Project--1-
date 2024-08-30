@@ -39,7 +39,7 @@ TensorFlow is a free and open-source software library for machine learning and a
 
 Regression is a statistical method used in finance, investing, and other disciplines that attempts to determine the strength and character of the relationship between a dependent variable and one or more independent variables. Linear regression is the most common form of this technique. <br></br>
 
-**Important Note: Go through the code to learn more**
+**Important Note: Before Jumping to the code go through this git hub link https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv to learn about the dataset.**
 
 </table>
 
