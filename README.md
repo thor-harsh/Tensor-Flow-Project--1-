@@ -26,7 +26,7 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 
 children: Number of children covered by health insurance / Number of dependents<br>
 
-smoker: Smoking<br></br>
+smoker: Smoking<br>
 
 region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.<br>
 
