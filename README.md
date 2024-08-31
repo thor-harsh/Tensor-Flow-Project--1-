@@ -4,7 +4,7 @@
   
 **In this project we'll be solving the regression problem. Here we will finding the total medical cost for a person based on different features using TensorFlow..** <br></br>
 
-**Before jumping to the code lets understand what is TensorFlow and What do you mean by regression problem?**...<br></br>
+
 
 **Let's looks into dataset and features of it:** <br></br>
 
@@ -30,6 +30,8 @@ smoker: Smoking <br>
 region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest. <br>
 
 charges: Individual medical costs billed by health insurance. <br></br>
+
+**Before jumping to the code lets understand what is TensorFlow and What do you mean by regression problem?**...<br></br>
 
 **What is a TensorFlow?** <br></br>
 
